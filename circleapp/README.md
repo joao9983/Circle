@@ -1,4 +1,4 @@
-# circle
+# Circle
 
 A new Flutter project.
 
